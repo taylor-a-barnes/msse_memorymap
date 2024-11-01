@@ -25,7 +25,7 @@ jobs:
           cmake ..
           cmake --build .
 
-      - name: Run the code on a single thread
+      - name: Run the code
         run: |
           cd build
           ./memorymap
