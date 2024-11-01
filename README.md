@@ -78,7 +78,7 @@ Have your code print each of the following:
 
 1. The relative virtual memory address of `argc`.
 2. The relative virtual memory address of `argv`.
-3. The relative virtual memory address of a variable of type `double` that is declared in the `main` function has automatic lifespan.
+3. The relative virtual memory address of a variable of type `double` that is declared in the `main` function and has automatic lifespan.
 4. The relative virtual memory address of a variable of type `double*` that has automatic lifespan.
 5. The relative virtual memory address of a variable of type `double` that has global scope.
 6.
