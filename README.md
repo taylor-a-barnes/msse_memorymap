@@ -27,7 +27,7 @@ For example, suppose we have a global variable named `reference_var`.
 We can print the virtual memory location of the function `main`, relative to `reference_var`, with the following code:
 
 ```
-#include<iostream>
+#include <iostream>
 #include <cstdint>
 
 int reference_var;
@@ -46,7 +46,7 @@ We **do** need the ampersand when casting `reference_var`, because we need a poi
 A more verbose (but perhaps clearer) way you could optionally write the above code would be:
 
 ```
-#include<iostream>
+#include <iostream>
 #include <cstdint>
 
 int reference_var;
