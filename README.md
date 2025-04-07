@@ -28,7 +28,7 @@ We can print the virtual memory location of the function `main`, relative to `re
 
 ```
 #include<iostream>
-#include <stdint.h>
+#include <cstdint>
 
 int reference_var;
 
@@ -47,7 +47,7 @@ A more verbose (but perhaps clearer) way you could optionally write the above co
 
 ```
 #include<iostream>
-#include <stdint.h>
+#include <cstdint>
 
 int reference_var;
 
