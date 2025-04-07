@@ -1,5 +1,5 @@
 #include<iostream>
-#include <stdint.h>
+#include <cstdint>
 
 int reference_var;
 
