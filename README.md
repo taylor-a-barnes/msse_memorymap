@@ -62,6 +62,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
+
 ## Part 1
 
 Write a program that declares a global variable of type `int` (we'll assume this variable is named `reference_var`) for the rest of these instructions.
@@ -71,6 +72,7 @@ Also define a class (we'll assume it is called `MemoryTest`) that includes at le
 1. A variable of type `int`, which is **not** declared using the `static` keyword.  For the rest of these instructions, we'll assume you named this variable `nonstatic_int`.
 2. A variable of type `int`, which **is** declared using the `static` keyword.  For the rest of these instructions, we'll assume you named this variable `static_int`.
 3. A variable of type `double*`, which is **not** declared using the `static` keyword.  For the rest of these instructions, we'll assume you named this variable `double_ptr`.  In the class constructor, assign `double_ptr = new double[10]`.
+
 
 ## Part 2
 
