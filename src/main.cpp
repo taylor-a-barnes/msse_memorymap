@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include <cstdint>
 
 int reference_var;
