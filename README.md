@@ -126,7 +126,7 @@ Hint: Remember to keep in mind the difference between an instance of a class and
 
 ## Part 3
 
-At the end of this `README.md` file, list each required value from Part 1 alongside its relative virtual memory location, clearly indicating which requirement of Part 2 it satisfies.
+At the end of this `README.md` file, list each required value from Part 2 alongside its relative virtual memory location, clearly indicating which requirement of Part 2 it satisfies.
 In addition, indicate for each value which of the following regions of memory it is expected to be stored in: (1) Startup / Stack, (2) Heap, (3) Global / Static, and (4) Text.
 Order the results from highest relative virtual memory location to lowest relative virtual memory location.
 You **aren't** required to write code to do the ordering; you may do it by hand if you prefer.
